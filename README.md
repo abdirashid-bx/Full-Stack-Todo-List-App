@@ -20,11 +20,7 @@ A modern, full-stack Todo List mobile application built with:
 
 ---
 
-## 📸 Screenshots
 
-> *(Add screenshots of your app here if possible)*
-
----
 
 ## 🛠️ Tech Stack
 
